@@ -1,19 +1,27 @@
 # ferricy
-> A 34-key split keyboard based on the [Sweep Bling MX](https://github.com/davidphilipbarr/Sweep/tree/main/Sweep%20Bling%20MX).
+> A 34-key split keyboard based on the [Sweep](https://github.com/davidphilipbarr/Sweep/).
 
-Ferricy is a slightly modified version of the Ferris Sweep Bling MX,
-sporting a more industrial look with sharper edges. Notable features:
+Ferricy is a slightly modified version of the Ferris Sweep, sporting a
+more industrial look with sharper edges. Notable features:
 
-- MX only.
+- Ferricy MX based on the Sweep MX Bling.
+- Ferricy Choc based on the Sweep Half-Swept.
 - Tenting puck support has been removed (I have no use for it).
 - Squared-off edges (plates modified accordingly).
 - Larger holes in the PCB for M2 standoffs to pass through.
 - The stupid Rust crab is gone.
 
+### MX
 
 | Front | Back |
 | :---: | :---: |
-| ![front](/img/front.png) | ![back](/img/back.png) |
+| ![front](/img/front_mx.png) | ![back](/img/back_mx.png) |
+
+### Choc
+
+| Front | Back |
+| :---: | :---: |
+| ![front](/img/front_choc.png) | ![back](/img/back_choc.png) |
 
 
 ## license & credits
